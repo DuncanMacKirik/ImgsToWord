@@ -17,7 +17,7 @@ class ImgsToWordApp:
 
     def init_params(self):
         exc_exts = ["cmd", "com", "cfg", "dll", "doc", "docx", "docm", "exe",\
-        "js", "json", "ini", "php", "py", "spec", "torrent", "txt", "tmp",\
+        "js", "json", "ini", "md", "php", "py", "spec", "torrent", "txt", "tmp",\
         "xls", "xlsx", "xlsm", "xml"]
         imgh_h = 120    
         imgv_h = 160
